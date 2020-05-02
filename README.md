@@ -1,7 +1,6 @@
 <h1 style="text-align:center;font-size:30px;" >Human Activity Recognition</h1>
 
-<h1> 1. Business Problem </h1>
-
+<h2> 1. Business Problem </h2>
 <h2> 1.1 Description </h2>
 This project is to build a model that predicts the human activities such as Walking, Walking_Upstairs, Walking_Downstairs, Sitting, Standing or Laying.
 This dataset is collected from 30 persons(referred as subjects in this dataset), performing different activities with a smartphone to their waists. The data is recorded with the help of sensors (accelerometer and Gyroscope) in that smartphone. This experiment was video recorded to label the data manually.
@@ -11,7 +10,6 @@ __ Problem Statement __
  - Given a new datapoint we have to predict the Activity.
 
 <h2> 1.2 Sources/Useful Links</h2>
-<br><br>____ Useful Links ____
  - https://arxiv.org/pdf/1805.07020.pdf
  - https://www.researchgate.net/publication/305649713_Deep_learning_for_human_activity_recognition_A_resource_efficient_implementation_on_low-power_devices
 
