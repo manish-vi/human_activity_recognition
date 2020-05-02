@@ -45,15 +45,15 @@ This dataset is collected from 30 persons(referred as subjects in this dataset),
 <h3> 2.2.1 Type of Machine Leaning Problem </h3>
 <p> It is a multi class classification problem, given a new datapoint we have to predict the Activity.</p>
 
-## 4. Getting Started
+## 3. Getting Started
 Start by downloading the project and run "HAR_DNN_Fusion_Model.ipynb" file in ipython-notebook.
 
-## 5. Prerequisites
+## 4. Prerequisites
 You need to have installed following softwares and libraries before running this project.
 1. Python 3: https://www.python.org/downloads/
 2. Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy and scipy: https://www.anaconda.com/download/
 
-## 6. Libraries
+## 5. Libraries
 * __Gensim:__ Gensim is a Python library for topic modelling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community.
     * pip install gensim
     * conda install -c conda-forge gensim
@@ -73,5 +73,5 @@ You need to have installed following softwares and libraries before running this
     * pip install nltk
     * conda install -c conda-forge nltk
 
-## 7. Authors
+## 6. Authors
 •	Manish Vishwakarma - Complete work  
